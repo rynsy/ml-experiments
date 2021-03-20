@@ -9,7 +9,7 @@ cycler==0.10.0
 decorator==4.0.6
 html5lib==0.999
 idna==2.0
-Jinja2==2.8
+Jinja2==2.11.3
 joblib==0.9.4
 jsonpatch==1.10
 jsonpointer==1.9
