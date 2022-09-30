@@ -10,7 +10,7 @@ decorator==4.0.6
 html5lib==0.999
 idna==2.0
 Jinja2==2.8
-joblib==0.9.4
+joblib==1.2.0
 jsonpatch==1.10
 jsonpointer==1.9
 language-selector==0.1
